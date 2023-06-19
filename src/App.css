@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  background-color: #a2c576;
+  color: white;
+  min-height: 100vh;
+}
+
+.header{
+  background-color: rgb(73, 67, 152);
+  padding: 8px;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 90vh;
+  flex-wrap: wrap;
+  padding: 14px;
+}
+
+h1{
+  margin: 0;
+}
+
+.buttons{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 260px;
+}
+
+.btn{
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.heading{
+  color: black;
+  font-size: 80px;
+  margin: 10px;
+  padding-top: 200px;
+}
+
+
